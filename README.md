@@ -24,7 +24,7 @@
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"  alt="lingHtml" height="35" width="35"  style="max-width:100%;"></img>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"  alt="lingJavaScript" height="35" width="35"  style="max-width:100%;"></img>
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="lingPython" height="35" width="35"  style="max-width:100%;"></img>
-<img src="https://img.icons8.com/windows/80/000000/php-logo.png" alt="lingPhp" height="35" width="35"  style="max-width:100%;"></img>
+<img src="https://img.icons8.com/offices/80/000000/php-logo.png" alt="lingPhp" height="35" width="35"  style="max-width:100%;"></img>
 
 ![Estatísticas do GitHub de Vitor](https://github-readme-stats.vercel.app/api?username=Vitor-Gustavo&show_icons=true&count_private=true&theme=dracula)
 
